@@ -1,6 +1,6 @@
-# CJ9S-Fundamentels
+# C9JS-Fundamentels
 
 
-   CJ9 JavaScript Tutorial Files
+   C9 JavaScript Tutorial Files
    
     Created 1-30-17
